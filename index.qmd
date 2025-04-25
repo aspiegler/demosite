@@ -23,7 +23,7 @@ about:
 ---
 
 :::{#ppc}
-I love my dogs. Here is a picture of my dogs.
+II love my dogs. Here is a picture of my dogs.
 
 ![My dogs are awesome](dawgs.png)
 
