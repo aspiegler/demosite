@@ -8,15 +8,20 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - favorites.qmd
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: sandstone
+    mainfont: arial
+    fontsize: 1.5rem
+    fontcolor: "#0013d5"
+    linkcolor: "#ff33f0"
+    monofont: courier new
+#    backgroundcolor: "#a5aaac"
     css: styles.css
     toc: true
+
 
 
 
