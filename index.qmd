@@ -1,11 +1,32 @@
 ---
-title: "demosite"
+title: "A. Data Wrangler"
+image: mypic.png
+resources: resume.pdf
+about:
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:noreply@email.zz
+    - text: GitHub
+      icon: github
+      href: https://github.com/
+    - text: YouTube
+      icon: youtube
+      href: https://youtube.com/
+    - text: resume
+      icon: file-text
+      href: resume.pdf
+  id: ppc
 ---
 
-This is a Quarto website.
+:::{#ppc}
+I love my dogs. Here is a picture of my dogs.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![My dogs are awesome](dawgs.png)
 
-```{r}
-1 + 1
-```
+If you like dogs too, then you should definitely hire me for
+a highly paid position.
+:::
