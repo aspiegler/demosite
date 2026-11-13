@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Assistant to the Data Manager"
+  title: "demosite"
   navbar:
     left:
       - href: index.qmd
